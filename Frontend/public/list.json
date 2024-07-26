@@ -1,0 +1,73 @@
+[{
+        "id": 1,
+        "name": "Motivational Book",
+        "title": "Cross the limits, to achieve goals.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://www.mydomaine.com/thmb/s4P8UkLdfYEbbXbHW2ZphrAV-hc=/700x796/filters:no_upscale():max_bytes(150000):strip_icc()/cdn.cliqueinc.com__cache__posts__243229__motivational-books-243229-1511897413362-main.700x0c-71886a2d0883433d8d9d0dbe17c8b86b.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Physics Book",
+        "title": "Force, Mass, Acceleration, Gravity towards physics.",
+        "price": 50,
+        "category": "Educational",
+        "image": "https://pk.fimsschools.com/wp-content/uploads/2022/06/The-Physics-Book.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Horror Book",
+        "title": "Fear is important for being immortal",
+        "price": 35,
+        "category": "Horror",
+        "image": "https://miblart.com/wp-content/uploads/2020/10/Jonathan-Sixtos-scaled.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sports Book",
+        "title": "Play for not being played.",
+        "price": 0,
+        "category": "Free",
+        "image": "http://www.bibdsl.co.uk/imagegallery2/bds/202011/9780241412930.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Biography Book",
+        "title": "Come On, Let's go on my life's journey.",
+        "price": 75,
+        "category": "Autobiography",
+        "image": "https://gobookmart.com/wp-content/uploads/2021/10/10-8.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Story Book",
+        "title": "Read till you don't fall asleep.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://getcovers.com/wp-content/uploads/2020/12/image35.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Recipe Book",
+        "title": "Eat the best food for a healthy life.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://images.template.net/wp-content/uploads/2021/07/healthy-food-recipe-book-cover-design-template-34bd4b38c1a9ef1531fffb6a49c4b23e_screen.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Music Book",
+        "title": "Learn to Sing with this amazing book",
+        "price": 0,
+        "category": "Free",
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781847869500/beginners-guide-to-reading-music-9781847869500_hr.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Mathematics Book",
+        "title": "Life is a Mathematical equation, use to solve it.",
+        "price": 120,
+        "category": "Maths",
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781440583810/math-geek-9781440583810_hr.jpg"
+    }
+]
